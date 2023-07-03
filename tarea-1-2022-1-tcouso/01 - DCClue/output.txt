@@ -1,0 +1,18 @@
+Culpable: nico
+Sospechosos: []
+Posiciones:
+felipe está en dcc en el tiempo 1
+nico está en cai en el tiempo 1
+nacho está en metro en el tiempo 1
+felipe está en biblioteca en el tiempo 2
+nico está en deportes en el tiempo 2
+nacho está en metro en el tiempo 2
+felipe está en deportes en el tiempo 3
+nico está en biblioteca en el tiempo 3
+nacho está en metro en el tiempo 3
+felipe está en biblioteca en el tiempo 4
+nico está en deportes en el tiempo 4
+nacho está en metro en el tiempo 4
+nico está en biblioteca en el tiempo 5
+felipe está en deportes en el tiempo 5
+nacho está en metro en el tiempo 5
